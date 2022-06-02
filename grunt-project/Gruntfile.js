@@ -47,9 +47,8 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-contrib-sass');
     // Load the plugin that provides the "cssmin" task.
     grunt.loadNpmTasks('grunt-contrib-cssmin');
-
     // Load the plugin that provides the "watch" task.
     grunt.loadNpmTasks('grunt-contrib-watch');
     
-    // grunt.registerTask('js', ['concat', 'uglify']);
+    grunt.registerTask('default', ['concat', 'sass', 'cssmin']);
 };
