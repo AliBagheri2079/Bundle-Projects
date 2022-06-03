@@ -1,0 +1,17 @@
+{
+  "name": "parcel-project",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "browserslist": "> 0.25%, not dead",
+  "scripts": {
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html"
+  },
+  "keywords": [],
+  "author": "ali bagheri",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0"
+  }
+}
