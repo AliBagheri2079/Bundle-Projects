@@ -1,0 +1,1 @@
+{"mappings":"ACEA","sources":["index.d5344911.css","assets/scss/style.scss","assets/scss/_variabe.scss"],"sourcesContent":["body {\n  color: #00f;\n}\n\n/*# sourceMappingURL=index.d5344911.css.map */\n","@import \"variabe\";\r\n\r\nbody {\r\n  color: $bg;\r\n}","$bg: blue;"],"names":[],"version":3,"file":"index.d5344911.css.map"}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../assets/js/module_1.js", "../../assets/js/module_2.js", "../../assets/js/index.js"],
+  "sourcesContent": ["const writeHello = () => {\n\tconsole.log(\"hello\")\n}\n\nexport default writeHello;\n", "const writeBye = () => {\r\n\tconsole.log(\"bye\")\r\n}\r\n\r\nexport default writeBye;", "import writeHello from './module_1.js';\r\nimport writeBye from './module_2.js';\r\n// import \"../scss/style.scss\";\r\n\r\nconst state = true;\r\n// console.log(\"wirteHello\");\r\n\r\nif (state) {\r\n    // console.log(\"wirteHello\");\r\n    writeHello();\r\n} else {\r\n    // console.log(\"writeBye\");\r\n    writeBye()\r\n}"],
+  "mappings": "MAAA,GAAM,GAAa,IAAM,CACxB,QAAQ,IAAI,OAAO,CACpB,EAEO,EAAQ,ECJf,GAAM,GAAW,IAAM,CACtB,QAAQ,IAAI,KAAK,CAClB,EAEO,EAAQ,ECAf,GAAM,GAAQ,GAGd,AAAI,EAEA,EAAW,EAGX,EAAS",
+  "names": []
+}

@@ -1,0 +1,1 @@
+{"mappings":"AACCA,QAAQC,IAAI","sources":["assets/js/module_1.js"],"sourcesContent":["const writeHello = () => {\n\tconsole.log(\"hello\")\n}\n\nexport default writeHello;\n"],"names":["console","log"],"version":3,"file":"index.467d90d8.js.map"}
