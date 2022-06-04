@@ -9,3 +9,6 @@
 
 ## [Parcel project](./parcel-project/)
 **look parcel folder to see changes**
+
+## [ESbuild project](./esbuild-project/)
+**look esbuild folder to see changes**
