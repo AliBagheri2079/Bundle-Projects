@@ -5,4 +5,3 @@
 ```shell npm run build```
 **if you wana create production and watching mode, just run this command** ```shell npm run watch```
 **if you wana create production and analyze mode, just run this command** ```shell npm run analyze```
-
