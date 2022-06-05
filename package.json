@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "ali bagheri",
-  "license": "ISC",
-  "devDependencies": {
-    "bootstrap": "^5.1.3"
-  }
+  "license": "ISC"
 }

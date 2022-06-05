@@ -12,3 +12,9 @@
 
 ## [ESbuild project](./esbuild-project/)
 **look esbuild folder to see changes**
+
+## [Rollup project](./rollup-project/)
+**look rollup folder to see changes**
+
+## [ViteJS project](./vite-project/)
+**look vite folder to see changes**
