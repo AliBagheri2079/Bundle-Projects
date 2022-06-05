@@ -3,6 +3,6 @@
 ## if you wana change files and runnig esbuild plugings?
 **if you wana create production mode, just run this command** 
 ```shell npm run build```
-**if you wana create production and watching mode, just run this command** ```npm run watch```
-**if you wana create production and analyze mode, just run this command** ```npm run analyze```
+**if you wana create production and watching mode, just run this command** ```shell npm run watch```
+**if you wana create production and analyze mode, just run this command** ```shell npm run analyze```
 
